@@ -1,0 +1,1 @@
+curl -H "Content-Type:application/json" --data '{"build":true}' -X POST https://registry.hub.docker.com/u/batescurt/aws-automation/trigger/53aff25b-3b40-4e23-8c73-de1bfacc4c95/
